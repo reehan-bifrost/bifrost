@@ -1,4 +1,14 @@
-# Bifrost AI Gateway
+<p align="center">
+  <a href="https://www.getmaxim.ai/bifrost">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.getmaxim.ai/bifrost/brand-assets/bifrost-logo-white.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://www.getmaxim.ai/bifrost/brand-assets/bifrost-logo.svg">
+      <img src="https://www.getmaxim.ai/bifrost/brand-assets/bifrost-logo.svg" alt="Bifrost by Maxim AI" width="240">
+    </picture>
+  </a>
+</p>
+
+<h1 align="center">Bifrost AI Gateway</h1>
 
 <p align="center">
   <a href="https://trendshift.io/repositories/14529?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-14529" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/14529" alt="maximhq%2Fbifrost | Trendshift" width="250" height="55"/></a>
