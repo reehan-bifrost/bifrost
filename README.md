@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h3 align="center">Route, govern, and secure AI traffic across models, MCP tools, agents and employee devices</h3>
+<h3 align="center">Route, govern, and secure AI traffic across models, MCP tools, and agents</h3>
 
 <p align="center">
   <a href="https://trendshift.io/repositories/14529?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-14529" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/14529" alt="maximhq%2Fbifrost | Trendshift" width="250" height="55"/></a>
