@@ -23,7 +23,14 @@
 
 **Route, govern, and secure AI traffic across models, tools, and agents.**
 
-[Documentation](https://docs.getbifrost.ai) · [Quick start](#quick-start) · [Integrations](#connect-your-applications-and-agents) · [Benchmarks](#performance) · [Enterprise](#bifrost-enterprise) · [Discord](https://discord.gg/exN5KAydbU)
+<p align="center">
+  <a href="https://docs.getbifrost.ai">Documentation</a> ·
+  <a href="#quick-start">Quick start</a> ·
+  <a href="#connect-your-applications-and-agents">Integrations</a> ·
+  <a href="#performance">Benchmarks</a> ·
+  <a href="#bifrost-enterprise">Enterprise</a> ·
+  <a href="https://discord.gg/exN5KAydbU">Discord</a>
+</p>
 
 Bifrost, by Maxim AI, is an enterprise AI gateway with an Apache 2.0 open-source core, written in Go. It connects applications to AI providers through an OpenAI-compatible API and brings MCP tool discovery and execution into the same gateway.
 
