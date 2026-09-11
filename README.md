@@ -1,12 +1,16 @@
 # Bifrost AI Gateway
 
-<a href="https://trendshift.io/repositories/14529?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-14529" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/14529" alt="maximhq%2Fbifrost | Trendshift" width="250" height="55"/></a>
+<p align="center">
+  <a href="https://trendshift.io/repositories/14529?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-14529" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/14529" alt="maximhq%2Fbifrost | Trendshift" width="250" height="55"/></a>
+</p>
 
-[![Discord badge](https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&logoColor=white)](https://discord.gg/exN5KAydbU)
-![Docker Pulls](https://img.shields.io/docker/pulls/maximhq/bifrost)
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" width="95" height="21">](https://app.getpostman.com/run-collection/31642484-2ba0e658-4dcd-49f4-845a-0c7ed745b916?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D31642484-2ba0e658-4dcd-49f4-845a-0c7ed745b916%26entityType%3Dcollection%26workspaceId%3D63e853c8-9aec-477f-909c-7f02f543150e)
-[![Artifact Hub](https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/bifrost)](https://artifacthub.io/packages/search?repo=bifrost)
-[![License](https://img.shields.io/github/license/maximhq/bifrost)](LICENSE)
+<p align="center">
+  <a href="https://discord.gg/exN5KAydbU"><img src="https://img.shields.io/badge/Discord-Join%20Community-5865F2?logo=discord&amp;logoColor=white" alt="Discord badge"/></a>
+  <img src="https://img.shields.io/docker/pulls/maximhq/bifrost" alt="Docker Pulls"/>
+  <a href="https://app.getpostman.com/run-collection/31642484-2ba0e658-4dcd-49f4-845a-0c7ed745b916?action=collection%2Ffork&amp;source=rip_markdown&amp;collection-url=entityId%3D31642484-2ba0e658-4dcd-49f4-845a-0c7ed745b916%26entityType%3Dcollection%26workspaceId%3D63e853c8-9aec-477f-909c-7f02f543150e"><img src="https://run.pstmn.io/button.svg" alt="Run In Postman" width="95" height="21"/></a>
+  <a href="https://artifacthub.io/packages/search?repo=bifrost"><img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/bifrost" alt="Artifact Hub"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/maximhq/bifrost" alt="License"/></a>
+</p>
 
 <p align="center">
   <a href="https://docs.getbifrost.ai/quickstart/gateway/setting-up">Bifrost AI Gateway</a> |
