@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h2 align="center">Route, govern, and secure AI traffic across models, MCP tools, agents and employee devices</h2>
+<h3 align="center">Route, govern, and secure AI traffic across models, MCP tools, agents and employee devices</h3>
 
 <p align="center">
   <a href="https://trendshift.io/repositories/14529?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-14529" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/14529" alt="maximhq%2Fbifrost | Trendshift" width="250" height="55"/></a>
@@ -23,12 +23,13 @@
 </p>
 
 <p align="center">
-  <a href="https://docs.getbifrost.ai/quickstart/gateway/setting-up">Bifrost AI Gateway</a> |
-  <a href="https://docs.getbifrost.ai/mcp/overview">Bifrost MCP Gateway</a> |
+  <a href="https://www.getmaxim.ai">Website</a> |
+  <a href="https://getmaxim.ai/llm-gateway">Bifrost AI Gateway</a> |
+  <a href="https://getmaxim.ai/mcp-gateway">Bifrost MCP Gateway</a> |
+  <a href="https://getmaxim.ai/edge">Bifrost Edge</a> |
+  <a href="https://www.getmaxim.ai/enterprise">Enterprise Tier</a> |
   <a href="https://docs.getbifrost.ai">Docs</a> |
   <a href="https://docs.getbifrost.ai/changelogs/v2.0.0">Changelogs</a> |
-  <a href="https://www.getmaxim.ai/enterprise">Enterprise Tier</a> |
-  <a href="https://www.getmaxim.ai">Website</a>
 </p>
 
 Bifrost, by Maxim AI, is an enterprise AI gateway with an Apache 2.0 open-source core, written in Go. It connects applications to AI providers through an OpenAI-compatible API and brings MCP tool discovery and execution into the same gateway.
@@ -38,11 +39,9 @@ AI inside a company comes from several directions: production applications calli
 Start with the open-source Gateway for model routing, failover, MCP tools, budgets, and observability. Bifrost Enterprise adds identity-based governance, guardrails, audit logs, and high availability. Bifrost Edge extends the Enterprise Gateway to supported AI tools on employee devices.
 
 <p align="center">
-  <a href="https://docs.getbifrost.ai">Documentation</a> ·
   <a href="#quick-start">Quick start</a> ·
   <a href="#connect-your-applications-and-agents">Integrations</a> ·
   <a href="#performance">Benchmarks</a> ·
-  <a href="#bifrost-enterprise">Enterprise</a> ·
   <a href="https://discord.gg/exN5KAydbU">Discord</a>
 </p>
 
