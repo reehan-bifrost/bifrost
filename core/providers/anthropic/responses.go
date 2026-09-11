@@ -5950,9 +5950,10 @@ func convertAnthropicContentBlocksToResponsesMessagesGrouped(contentBlocks []Ant
 		}
 		if isOutputMessage {
 			bifrostMessages = append(bifrostMessages, schemas.ResponsesMessage{
-				ID:   schemas.Ptr("msg_" + schemas.GetRandomString(50)),
-				Type: schemas.Ptr(schemas.ResponsesMessageTypeMessage),
-				Role: role,
+				ID:     schemas.Ptr("msg_" + schemas.GetRandomString(50)),
+				Type:   schemas.Ptr(schemas.ResponsesMessageTypeMessage),
+				Role:   role,
+				Status: schemas.Ptr("completed"),
 				Content: &schemas.ResponsesMessageContent{
 					ContentBlocks: accumulatedTextContent,
 				},
@@ -6004,13 +6005,9 @@ func convertAnthropicContentBlocksToResponsesMessagesGrouped(contentBlocks []Ant
 						Content: &schemas.ResponsesMessageContent{
 							ContentBlocks: []schemas.ResponsesMessageContentBlock{
 								{
-									Type:         schemas.ResponsesOutputMessageContentTypeText,
+									Type:         schemas.ResponsesInputMessageContentBlockTypeText,
 									Text:         block.Text,
 									CacheControl: block.CacheControl,
-									ResponsesOutputMessageContentText: &schemas.ResponsesOutputMessageContentText{
-										LogProbs:    []schemas.ResponsesOutputMessageContentTextLogProb{},
-										Annotations: []schemas.ResponsesOutputMessageContentTextAnnotation{},
-									},
 								},
 							},
 						},
