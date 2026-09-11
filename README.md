@@ -8,7 +8,7 @@
   </a>
 </p>
 
-<h1 align="center">Bifrost AI Gateway</h1>
+<h2 align="center">Route, govern, and secure AI traffic across models, MCP tools, agents and employee devices</h2>
 
 <p align="center">
   <a href="https://trendshift.io/repositories/14529?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-14529" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/14529" alt="maximhq%2Fbifrost | Trendshift" width="250" height="55"/></a>
@@ -31,7 +31,11 @@
   <a href="https://www.getmaxim.ai">Website</a>
 </p>
 
-**Route, govern, and secure AI traffic across models, tools, and agents.**
+Bifrost, by Maxim AI, is an enterprise AI gateway with an Apache 2.0 open-source core, written in Go. It connects applications to AI providers through an OpenAI-compatible API and brings MCP tool discovery and execution into the same gateway.
+
+AI inside a company comes from several directions: production applications calling models, agents using tools, and employees working with AI on their own machines. We built Bifrost to give teams control over those requests without making the gateway a bottleneck.
+
+Start with the open-source Gateway for model routing, failover, MCP tools, budgets, and observability. Bifrost Enterprise adds identity-based governance, guardrails, audit logs, and high availability. Bifrost Edge extends the Enterprise Gateway to supported AI tools on employee devices.
 
 <p align="center">
   <a href="https://docs.getbifrost.ai">Documentation</a> ·
@@ -41,12 +45,6 @@
   <a href="#bifrost-enterprise">Enterprise</a> ·
   <a href="https://discord.gg/exN5KAydbU">Discord</a>
 </p>
-
-Bifrost, by Maxim AI, is an enterprise AI gateway with an Apache 2.0 open-source core, written in Go. It connects applications to AI providers through an OpenAI-compatible API and brings MCP tool discovery and execution into the same gateway.
-
-AI inside a company comes from several directions: production applications calling models, agents using tools, and employees working with AI on their own machines. We built Bifrost to give teams control over those requests without making the gateway a bottleneck.
-
-Start with the open-source Gateway for model routing, failover, MCP tools, budgets, and observability. Bifrost Enterprise adds identity-based governance, guardrails, audit logs, and high availability. Bifrost Edge extends the Enterprise Gateway to supported AI tools on employee devices.
 
 ## Why Bifrost
 
