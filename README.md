@@ -45,11 +45,12 @@ Bifrost unifies LLM gateway, MCP gateway, and Agents gateway capabilities into a
 
 ## Why Bifrost AI Gateway
 
-Bifrost is built for enterprises running mission-critical AI workloads that require top-tier performance, scalability, and reliability
+Bifrost is built for running mission-critical AI workloads that require top-tier performance, scalability, and reliability
 
 - Built in Go, it offers ultra low latency, with gateway overhead not exceeding microseconds
 - Peer-to-peer node clusters guarantee high availability and uptime. Adding nodes scales horizontally without the cluster becoming a bottleneck
-- Routing that adapts in real time with Adaptive Load Balancing
+- Routing and failover with weighted load balancing across keys and providers, retries with exponential backoff, and fallback to a different provider once retries are exhausted
+- Observability with Prometheus metrics and OpenTelemetry tracing on every request
 - Deploy via a single binary, anywhere. It is air-gapped, by default, runs entirely in your infrastructure and no data, not even telemetry leaves your environment
 
 ### Core capabilities
